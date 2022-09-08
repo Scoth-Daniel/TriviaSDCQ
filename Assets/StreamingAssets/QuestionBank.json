@@ -3,52 +3,52 @@
     "nombreDificultad": "Super Easy",
     "preguntas": [
       {
-        "enunciado": "enunciado se1",
+        "enunciado": "En que casa estudió Harry Potter",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Slythering" },
+          { "texto": "Gryffindor" },
+          { "texto": "Ravenclaw" },
+          { "texto": "Hufflepuff" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado se2",
+        "enunciado": "Cuantas casas hay en Hogwarts",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "1" },
+          { "texto": "2" },
+          { "texto": "3" },
+          { "texto": "4" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado se4",
+        "enunciado": "Que animal tenia harry Potter como mascota",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Un gato" },
+          { "texto": "Un lobo" },
+          { "texto": "Una lechuza" },
+          { "texto": "Una rata" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 2
       },
       {
-        "enunciado": "enunciado se5",
+        "enunciado": "La cicatriz de harry tenía forma de",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Circulo" },
+          { "texto": "Garra" },
+          { "texto": "Triangulo" },
+          { "texto": "Rayo" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado 1",
+        "enunciado": "El color de la casa en la que estudió Harry es",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Roja" },
+          { "texto": "Verde" },
+          { "texto": "Amarilla" },
+          { "texto": "Azul" }
         ],
         "respuestaCorrecta": 0
       }
@@ -58,52 +58,52 @@
     "nombreDificultad": "Easy",
     "preguntas": [
       {
-        "enunciado": "enunciado e1",
+        "enunciado": "Cuantas peliculas de Harry potter hay",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "6" },
+          { "texto": "7" },
+          { "texto": "8" },
+          { "texto": "9" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 2
       },
       {
-        "enunciado": "enunciado e2",
+        "enunciado": "Cuantos libros hay de harry potter",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "6" },
+          { "texto": "7" },
+          { "texto": "8" },
+          { "texto": "9" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado e3",
+        "enunciado": "Cuento popular relatado en Harry potter",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Animales Fantasticos" },
+          { "texto": "Reliquias de la muerte" },
+          { "texto": "El gato Negro" },
+          { "texto": "Caldera Chorreante" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado e4",
+        "enunciado": "A donde llevan a los estudiantes a hacer las compras",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Calle de la amargura" },
+          { "texto": "Gringotts" },
+          { "texto": "Valle de Godric" },
+          { "texto": "Callejon Diago" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado e5",
+        "enunciado": "Hechizo para iluminar la varita",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Lumos" },
+          { "texto": "Lumus" },
+          { "texto": "Luminos" },
+          { "texto": "Luminate" }
         ],
         "respuestaCorrecta": 0
       }
@@ -113,54 +113,54 @@
     "nombreDificultad": "Medium",
     "preguntas": [
       {
-        "enunciado": "enunciado m1",
+        "enunciado": "Encantamiento para hacer volar una puerta",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Alohomora" },
+          { "texto": "Ábrete, Sésamo" },
+          { "texto": "Aberto" },
+          { "texto": "Accio" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Encantamiento para abrir cerraduras",
+        "respuestas": [
+          { "texto": "Ascendio" },
+          { "texto": "Ábrete, Sésamo" },
+          { "texto": "Accio" },
+          { "texto": "Alohomora" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Encantamiento proihibido",
+        "respuestas": [
+          { "texto": "Accio" },
+          { "texto": "Aberto" },
+          { "texto": "Ascendio" },
+          { "texto": "Imperio" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Unico Familiar vivo de Harry Potter",
+        "respuestas": [
+          { "texto": "Sirius Black" },
+          { "texto": "Regulus Black" },
+          { "texto": "Dombledore" },
+          { "texto": "Severus Snape" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado m2",
+        "enunciado": "Con quien fue Harry potter al Baile",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Cho Chang" },
+          { "texto": "Ginny Weasley" },
+          { "texto": "Parvati Patil" },
+          { "texto": "Fleur Delacour" }
         ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado m3",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado m4",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado m5",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       }
     ]
   },
@@ -168,54 +168,54 @@
     "nombreDificultad": "Hard",
     "preguntas": [
       {
-        "enunciado": "enunciado h1",
+        "enunciado": "Encantamiento libera vías respiratorias",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Annihilare" },
+          { "texto": "Anapneo" },
+          { "texto": "Steleus" },
+          { "texto": "Bauleo" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Encantamiento que un grupo de objetos se ordene dentro de un baul",
+        "respuestas": [
+          { "texto": "Annihilare" },
+          { "texto": "Anapneo" },
+          { "texto": "Steleus" },
+          { "texto": "Bauleo" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Maleficio que hace estornudar sin control a la victima",
+        "respuestas": [
+          { "texto": "Annihilare" },
+          { "texto": "Anapneo" },
+          { "texto": "Steleus" },
+          { "texto": "Bauleo" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Hechizo para abrir celdas",
+        "respuestas": [
+          { "texto": "Annihilare" },
+          { "texto": "Anapneo" },
+          { "texto": "Steleus" },
+          { "texto": "Bauleo" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado h2",
+        "enunciado": "Hechiz para convertir objetos inanimados en aves",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Avenseguim" },
+          { "texto": "Aviatus" },
+          { "texto": "Avis" },
+          { "texto": "Avifors" }
         ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado h3",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado h4",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado h5",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       }
     ]
   },
@@ -223,54 +223,54 @@
     "nombreDificultad": "Extra Hard",
     "preguntas": [
       {
-        "enunciado": "enunciado eh1",
+        "enunciado": "En que año nació Harry Potter",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "1970" },
+          { "texto": "1980" },
+          { "texto": "1990" },
+          { "texto": "2000" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado eh2",
+        "enunciado": "En que año muere Lord Voldemort",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "1988" },
+          { "texto": "1998" },
+          { "texto": "2008" },
+          { "texto": "2018" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado eh3",
+        "enunciado": "En que año fallece Dombledore",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "1987" },
+          { "texto": "1997" },
+          { "texto": "2007" },
+          { "texto": "2017" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado eh4",
+        "enunciado": "En que año fallece Severus Snape",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "1988" },
+          { "texto": "1998" },
+          { "texto": "2008" },
+          { "texto": "2018" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado eh5",
+        "enunciado": "En que año fallece Sirius Black",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "1986" },
+          { "texto": "1996" },
+          { "texto": "2006" },
+          { "texto": "2016" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       }
     ]
   }
